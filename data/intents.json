@@ -1,0 +1,87 @@
+[
+  {
+    "intent": "greeting",
+    "text": "hello",
+    "response": "Hello! How can I assist you today?"
+  },
+  {
+    "intent": "greeting",
+    "text": "hi",
+    "response": "Hi there! What can I do for you today?"
+  },
+  {
+    "intent": "goodbye",
+    "text": "bye",
+    "response": "Goodbye! Have a great day!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "see you later",
+    "response": "See you later! Take care!"
+  },
+  {
+    "intent": "help",
+    "text": "what can you do?",
+    "response": "I can answer your questions, tell jokes, or provide info like weather and time!"
+  },
+  {
+    "intent": "weather",
+    "text": "what's the weather today?",
+    "response": "I can’t check live weather yet, but soon I’ll be able to!"
+  },
+  {
+    "intent": "weather",
+    "text": "is it going to rain today?",
+    "response": "I can’t provide live forecasts yet, but you can check online weather services!"
+  },
+  {
+    "intent": "time",
+    "text": "what time is it?",
+    "response": "I can tell you the current time if you enable my clock feature!"
+  },
+  {
+    "intent": "date",
+    "text": "what's today's date?",
+    "response": "I can tell you today’s date if you enable my date feature!"
+  },
+  {
+    "intent": "smalltalk",
+    "text": "how are you?",
+    "response": "I’m just a bot, but I’m ready to help you!"
+  },
+  {
+    "intent": "smalltalk",
+    "text": "what's up?",
+    "response": "Just helping people like you with their questions!"
+  },
+  {
+    "intent": "fun",
+    "text": "tell me a joke",
+    "response": "Why did the computer go to the doctor? Because it caught a virus!"
+  },
+  {
+    "intent": "fun",
+    "text": "make me laugh",
+    "response": "Why don't scientists trust atoms? Because they make up everything!"
+  },
+  {
+    "intent": "math",
+    "text": "what is 2 plus 2?",
+    "response": "2 plus 2 is 4!"
+  },
+  {
+    "intent": "math",
+    "text": "calculate 10 times 5",
+    "response": "10 times 5 is 50!"
+  },
+  {
+    "intent": "faq",
+    "text": "who created you?",
+    "response": "I was created by a developer learning AI and machine learning!"
+  },
+  {
+    "intent": "faq",
+    "text": "what is AI?",
+    "response": "AI stands for Artificial Intelligence, which allows machines to perform tasks that usually require human intelligence."
+  }
+]
